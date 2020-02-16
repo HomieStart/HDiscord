@@ -1,2 +1,2 @@
 # HDiscord
-Codes used for for _OMS_ team.
+Codes used for for _OMS team_.
